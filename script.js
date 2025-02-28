@@ -1,1 +1,2 @@
-hello soliders and all the kind
+console.log("hello developers");
+
