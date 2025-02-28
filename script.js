@@ -1,1 +1,1 @@
-hello soliders
+hello soliders and all the kind
